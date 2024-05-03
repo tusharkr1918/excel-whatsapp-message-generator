@@ -5,10 +5,9 @@ import configparser
 
 config = configparser.ConfigParser()
 config.read('config.ini')
-
-country_code = config.get('whatsapp', 'COUNTRY_CODE')
-phone_number_len = config.getint('whatsapp', 'PHONE_NUMBER_LEN')
-anchor_text = config.get('whatsapp', 'ANCHOR_TEXT')
+country_code = config.get('whatsapp', 'COUNTRY_CODE').strip()
+phone_number_len = config.get('whatsapp', 'PHONE_NUMBER_LEN').strip()
+anchor_text = config.get('whatsapp', 'ANCHOR_TEXT').strip()
 
 def excel_column_letter_to_index(col_letter):
     col_letter = col_letter.upper()
