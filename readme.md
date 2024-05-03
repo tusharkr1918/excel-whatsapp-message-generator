@@ -61,7 +61,7 @@ This application is designed to facilitate the generation of WhatsApp messages u
 
 - Click the "Restore" button to restore the previous state of the application, including file paths, formatting options, and more.
 
-## Screenshots
+## Preview
 
 [![Preview](docs/preview.gif)](https://www.youtube.com/watch?v=8e3h7Jwl_y4)
 
