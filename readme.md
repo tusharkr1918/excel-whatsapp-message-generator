@@ -63,7 +63,7 @@ This application is designed to facilitate the generation of WhatsApp messages u
 
 ## Screenshots
 
-![Preview](docs/preview.gif)
+[![Preview](docs/preview.gif)](https://www.youtube.com/watch?v=8e3h7Jwl_y4)
 
 ## Contributing
 
