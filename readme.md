@@ -65,14 +65,5 @@ This application is designed to facilitate the generation of WhatsApp messages u
 
 [![Preview](docs/preview.gif)](https://www.youtube.com/watch?v=8e3h7Jwl_y4)
 
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
 ## License
-
-[Include license information here]
-
----
-
-Feel free to customize and expand this readme according to your preferences and project requirements! Let me know if you need further assistance.
+This project is licensed under the MIT License. Feel free to contribute, report issues, or suggest improvements!
